@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\OneDrive\\PRIMARY ONEDRIVE\\RTR-2020-REPO\\rtr2020_080_kshitij_badkas\\ASSIGNMENTS\\OpenGL\\03 - Android\\007_2D_Shapes\\2D_Shapes\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kshitij\\.gradle\\caches\\transforms-2\\files-2.1\\0cb9ff486f5edb59977e253831b932c8\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

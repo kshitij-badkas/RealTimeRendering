@@ -1,0 +1,10 @@
+com/example/per_fragment_light/BuildConfig.java
+ com.example.per_fragment_light.BuildConfig
+com/example/per_fragment_light/GLESMacros.java
+ com.example.per_fragment_light.GLESMacros
+com/example/per_fragment_light/MainActivity.java
+ com.example.per_fragment_light.MainActivity
+com/example/per_fragment_light/GLESView.java
+ com.example.per_fragment_light.GLESView
+com/example/per_fragment_light/Sphere.java
+ com.example.per_fragment_light.Sphere

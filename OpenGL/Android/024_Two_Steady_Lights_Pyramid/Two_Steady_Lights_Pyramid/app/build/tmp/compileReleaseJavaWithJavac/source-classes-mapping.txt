@@ -1,0 +1,8 @@
+com/example/two_steady_lights_pyramid/GLESMacros.java
+ com.example.two_steady_lights_pyramid.GLESMacros
+com/example/two_steady_lights_pyramid/MainActivity.java
+ com.example.two_steady_lights_pyramid.MainActivity
+com/example/two_steady_lights_pyramid/BuildConfig.java
+ com.example.two_steady_lights_pyramid.BuildConfig
+com/example/two_steady_lights_pyramid/GLESView.java
+ com.example.two_steady_lights_pyramid.GLESView

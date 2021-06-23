@@ -1,0 +1,8 @@
+com/example/white_cube/GLESMacros.java
+ com.example.white_cube.GLESMacros
+com/example/white_cube/GLESView.java
+ com.example.white_cube.GLESView
+com/example/white_cube/MainActivity.java
+ com.example.white_cube.MainActivity
+com/example/white_cube/BuildConfig.java
+ com.example.white_cube.BuildConfig

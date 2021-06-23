@@ -1,0 +1,4 @@
+#Fri Jun 04 14:58:32 IST 2021
+base.0=D\:\\OneDrive\\PRIMARY ONEDRIVE\\RTR-2020-REPO\\rtr2020_080_kshitij_badkas\\ASSIGNMENTS\\OpenGL\\03 - Android\\00_Template\\_Template\\Window\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

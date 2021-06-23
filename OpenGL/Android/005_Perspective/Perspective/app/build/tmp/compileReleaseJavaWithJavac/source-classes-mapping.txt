@@ -1,0 +1,8 @@
+com/example/perspective/GLESMacros.java
+ com.example.perspective.GLESMacros
+com/example/perspective/MainActivity.java
+ com.example.perspective.MainActivity
+com/example/perspective/GLESView.java
+ com.example.perspective.GLESView
+com/example/perspective/BuildConfig.java
+ com.example.perspective.BuildConfig

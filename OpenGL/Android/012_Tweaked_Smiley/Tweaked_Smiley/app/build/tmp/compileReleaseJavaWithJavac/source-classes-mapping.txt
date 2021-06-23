@@ -1,0 +1,8 @@
+com/example/tweaked_smiley/BuildConfig.java
+ com.example.tweaked_smiley.BuildConfig
+com/example/tweaked_smiley/GLESView.java
+ com.example.tweaked_smiley.GLESView
+com/example/tweaked_smiley/MainActivity.java
+ com.example.tweaked_smiley.MainActivity
+com/example/tweaked_smiley/GLESMacros.java
+ com.example.tweaked_smiley.GLESMacros

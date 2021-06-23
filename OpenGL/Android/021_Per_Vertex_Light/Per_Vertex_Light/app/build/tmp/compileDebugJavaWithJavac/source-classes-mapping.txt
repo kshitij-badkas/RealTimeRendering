@@ -1,0 +1,10 @@
+com/example/per_vertex_light/GLESMacros.java
+ com.example.per_vertex_light.GLESMacros
+com/example/per_vertex_light/GLESView.java
+ com.example.per_vertex_light.GLESView
+com/example/per_vertex_light/MainActivity.java
+ com.example.per_vertex_light.MainActivity
+com/example/per_vertex_light/BuildConfig.java
+ com.example.per_vertex_light.BuildConfig
+com/example/per_vertex_light/Sphere.java
+ com.example.per_vertex_light.Sphere

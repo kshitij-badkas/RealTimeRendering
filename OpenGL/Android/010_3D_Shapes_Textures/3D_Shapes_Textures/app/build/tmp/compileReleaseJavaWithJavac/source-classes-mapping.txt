@@ -1,0 +1,8 @@
+com/example/shapes_3d_textures/BuildConfig.java
+ com.example.shapes_3d_textures.BuildConfig
+com/example/shapes_3d_textures/GLESMacros.java
+ com.example.shapes_3d_textures.GLESMacros
+com/example/shapes_3d_textures/GLESView.java
+ com.example.shapes_3d_textures.GLESView
+com/example/shapes_3d_textures/MainActivity.java
+ com.example.shapes_3d_textures.MainActivity

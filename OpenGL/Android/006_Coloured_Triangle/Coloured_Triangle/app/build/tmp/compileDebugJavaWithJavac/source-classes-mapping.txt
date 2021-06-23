@@ -1,0 +1,8 @@
+com/example/coloured_triangle/GLESView.java
+ com.example.coloured_triangle.GLESView
+com/example/coloured_triangle/BuildConfig.java
+ com.example.coloured_triangle.BuildConfig
+com/example/coloured_triangle/MainActivity.java
+ com.example.coloured_triangle.MainActivity
+com/example/coloured_triangle/GLESMacros.java
+ com.example.coloured_triangle.GLESMacros

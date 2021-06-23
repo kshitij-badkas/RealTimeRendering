@@ -1,0 +1,6 @@
+com/example/bluewindow/GLESView.java
+ com.example.bluewindow.GLESView
+com/example/bluewindow/MainActivity.java
+ com.example.bluewindow.MainActivity
+com/example/bluewindow/BuildConfig.java
+ com.example.bluewindow.BuildConfig

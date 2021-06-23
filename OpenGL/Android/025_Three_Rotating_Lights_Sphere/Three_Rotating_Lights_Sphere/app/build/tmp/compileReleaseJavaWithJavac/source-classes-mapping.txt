@@ -1,0 +1,10 @@
+com/example/three_rotating_lights_sphere/Sphere.java
+ com.example.three_rotating_lights_sphere.Sphere
+com/example/three_rotating_lights_sphere/GLESMacros.java
+ com.example.three_rotating_lights_sphere.GLESMacros
+com/example/three_rotating_lights_sphere/BuildConfig.java
+ com.example.three_rotating_lights_sphere.BuildConfig
+com/example/three_rotating_lights_sphere/MainActivity.java
+ com.example.three_rotating_lights_sphere.MainActivity
+com/example/three_rotating_lights_sphere/GLESView.java
+ com.example.three_rotating_lights_sphere.GLESView

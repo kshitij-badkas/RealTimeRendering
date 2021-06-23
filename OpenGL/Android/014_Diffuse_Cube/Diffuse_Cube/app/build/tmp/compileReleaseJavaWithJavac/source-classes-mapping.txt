@@ -1,0 +1,8 @@
+com/example/diffuse_cube/MainActivity.java
+ com.example.diffuse_cube.MainActivity
+com/example/diffuse_cube/BuildConfig.java
+ com.example.diffuse_cube.BuildConfig
+com/example/diffuse_cube/GLESMacros.java
+ com.example.diffuse_cube.GLESMacros
+com/example/diffuse_cube/GLESView.java
+ com.example.diffuse_cube.GLESView
