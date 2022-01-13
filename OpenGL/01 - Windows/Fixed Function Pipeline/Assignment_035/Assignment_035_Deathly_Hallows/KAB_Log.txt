@@ -1,0 +1,2259 @@
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034
+a- 2.000000
+b- 2.236068
+c- 2.236068
+perimeter- 6.472136
+semiperimeter- 3.236068
+Triangle Area- 1.999999
+iX- 0.000000
+iY- -0.381966
+radius- 0.618034

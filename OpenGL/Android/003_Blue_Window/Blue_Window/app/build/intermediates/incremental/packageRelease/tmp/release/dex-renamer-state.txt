@@ -1,4 +1,0 @@
-#Wed May 05 15:55:43 IST 2021
-base.0=D\:\\OneDrive\\PRIMARY ONEDRIVE\\RTR-2020-REPO\\rtr2020_080_kshitij_badkas\\ASSIGNMENTS\\OpenGL\\03 - Android\\003_Blue_Window\\Blue_Window\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

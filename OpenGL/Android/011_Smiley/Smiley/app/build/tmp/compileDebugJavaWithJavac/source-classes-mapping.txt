@@ -1,8 +1,0 @@
-com/example/smiley/GLESMacros.java
- com.example.smiley.GLESMacros
-com/example/smiley/MainActivity.java
- com.example.smiley.MainActivity
-com/example/smiley/GLESView.java
- com.example.smiley.GLESView
-com/example/smiley/BuildConfig.java
- com.example.smiley.BuildConfig

@@ -1,4 +1,0 @@
-com/example/hello/BuildConfig.java
- com.example.hello.BuildConfig
-com/example/hello/MainActivity.java
- com.example.hello.MainActivity

@@ -1,4 +1,0 @@
-#Fri Jun 04 10:59:19 IST 2021
-base.0=D\:\\OneDrive\\PRIMARY ONEDRIVE\\RTR-2020-REPO\\rtr2020_080_kshitij_badkas\\ASSIGNMENTS\\OpenGL\\03 - Android\\024_Three_Rotating_Lights_Sphere\\Three_Rotating_Lights_Sphere\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

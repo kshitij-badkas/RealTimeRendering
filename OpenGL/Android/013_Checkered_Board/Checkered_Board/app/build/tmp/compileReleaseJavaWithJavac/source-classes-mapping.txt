@@ -1,8 +1,0 @@
-com/example/checkered_board/MainActivity.java
- com.example.checkered_board.MainActivity
-com/example/checkered_board/BuildConfig.java
- com.example.checkered_board.BuildConfig
-com/example/checkered_board/GLESMacros.java
- com.example.checkered_board.GLESMacros
-com/example/checkered_board/GLESView.java
- com.example.checkered_board.GLESView

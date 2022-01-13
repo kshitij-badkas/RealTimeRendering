@@ -1,0 +1,3 @@
+#include "MyIcon.h"
+MYICON ICON KAB.ico
+KUNDALI_BITMAP BITMAP Vijay_Kundali.bmp

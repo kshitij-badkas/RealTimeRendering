@@ -1,8 +1,0 @@
-com/example/white_pyramid/GLESMacros.java
- com.example.white_pyramid.GLESMacros
-com/example/white_pyramid/MainActivity.java
- com.example.white_pyramid.MainActivity
-com/example/white_pyramid/BuildConfig.java
- com.example.white_pyramid.BuildConfig
-com/example/white_pyramid/GLESView.java
- com.example.white_pyramid.GLESView

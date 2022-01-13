@@ -1,0 +1,3 @@
+#include "MyIcon.h"
+MYICON ICON KAB.ico
+STONE_BITMAP BITMAP Stone.bmp

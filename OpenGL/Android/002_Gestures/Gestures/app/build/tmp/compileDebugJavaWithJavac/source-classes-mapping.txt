@@ -1,6 +1,0 @@
-com/example/gestures/BuildConfig.java
- com.example.gestures.BuildConfig
-com/example/gestures/MainActivity.java
- com.example.gestures.MainActivity
-com/example/gestures/MyView.java
- com.example.gestures.MyView

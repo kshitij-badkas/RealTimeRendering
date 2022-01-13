@@ -1,4 +1,0 @@
-#Sun May 09 13:53:28 IST 2021
-base.0=D\:\\OneDrive\\PRIMARY ONEDRIVE\\RTR-2020-REPO\\rtr2020_080_kshitij_badkas\\ASSIGNMENTS\\OpenGL\\03 - Android\\013_Checkered_Board\\Checkered_Board\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

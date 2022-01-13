@@ -1,8 +1,0 @@
-com/example/shapes_2d/GLESMacros.java
- com.example.shapes_2d.GLESMacros
-com/example/shapes_2d/MainActivity.java
- com.example.shapes_2d.MainActivity
-com/example/shapes_2d/GLESView.java
- com.example.shapes_2d.GLESView
-com/example/shapes_2d/BuildConfig.java
- com.example.shapes_2d.BuildConfig
