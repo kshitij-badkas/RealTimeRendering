@@ -1,0 +1,6 @@
+
+#include <windows.h>
+
+#include "MyWindow.h"
+
+MYICON ICON DRG.ico 

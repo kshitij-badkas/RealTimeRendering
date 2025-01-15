@@ -1,0 +1,4 @@
+To upgrade vulkan version - 
+1. uninstall old version from control panel
+2. Delete C:/VulkanSdk (vulkan sdk location)
+3. Delete Vulkan icons/data from group icons folder

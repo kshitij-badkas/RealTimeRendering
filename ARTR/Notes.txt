@@ -1,0 +1,6 @@
+To upgrade vulkan version - 
+1. vulkan/ metal/dx12 is not a state machine
+2. Installation Client Driver - ICD (referenced in OpenCL) & ROCM
+3. Extensions to enable - 
+      VK_KHR_SURFACE_EXTENSION_NAME
+      VK_KHR_WIN32_SURFACE_EXTENSION_NAME
