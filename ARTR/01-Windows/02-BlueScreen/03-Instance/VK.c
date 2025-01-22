@@ -5,7 +5,7 @@
 
 // Vulkan related header files
 #define VK_USE_PLATFORM_WIN32_KHR
-#include <vulkan/vulkan.h>	// dont worry if error - build.bat is used.
+#include <vulkan/vulkan.h> // dont worry if error - build.bat is used.
 
 // Vulkan related library
 #pragma comment(lib, "vulkan-1.lib")
@@ -32,6 +32,9 @@ uint32_t enabledInstanceExtensionCount = 0;
 // Instance extension related variable
 // VK_KHR_SURFACE_EXTENSION_NAME & VK_KHR_WIN32_SURFACE_EXTENSION_NAME
 const char *enabledInstanceExtensionName_array[2];
+
+// Instance
+VkInstance vkinstance = VK_NULL_HANDLE;
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdLine, int iCmdShow)
 {
@@ -271,22 +274,21 @@ void ToggleFullScreen(void)
 
 VkResult Initialize(void)
 {
-	// Function declaration
-	VkResult FillInstanceExtensionName(void);
+	// FUnction declaration
+	VkResult createVulkanInstance(void);
 
 	// Variable declaration
 	VkResult vkresult = VK_SUCCESS;
 
 	// code
-	vkresult = FillInstanceExtensionName();
-
+	vkresult = createVulkanInstance();
 	if (vkresult != VK_SUCCESS)
 	{
-		fprintf(gpFile, "\nInitialize() -> FillInstanceExtensionName() failed.");
+		fprintf(gpFile, "\nInitialize() -> createVulkanInstance() failed.");
 	}
 	else
 	{
-		fprintf(gpFile, "\nInitialize() -> FillInstanceExtensionName() Succeeded.");
+		fprintf(gpFile, "\nInitialize() -> createVulkanInstance() Succeeded.");
 	}
 
 	return (vkresult);
@@ -338,6 +340,14 @@ void UnInitialize(void)
 		ghwnd = NULL;
 	}
 
+	// STEP 5 : Destroy Vulkan instance
+	if (vkinstance)
+	{
+		vkDestroyInstance(vkinstance, NULL);
+		vkinstance = VK_NULL_HANDLE;
+		fprintf(gpFile, "\nUnInitialize() -> vkDestroyInstance() Succeeded.");
+	}
+
 	if (gpFile)
 	{
 		fclose(gpFile);
@@ -347,11 +357,75 @@ void UnInitialize(void)
 
 ////////////////////////////////////////// VULKAN RELATED FUNCTIONS //////////////////////////////////////////
 
-VkResult FillInstanceExtensionName(void)
+VkResult createVulkanInstance(void)
 {
 	// Function declaration
-	// VkResult FillInstanceExtensionName(void);
+	VkResult FillInstanceExtensionName(void);
 
+	// Variable declaration
+	VkResult vkresult = VK_SUCCESS;
+
+	// code
+	// STEP 1 :
+	vkresult = FillInstanceExtensionName();
+
+	if (vkresult != VK_SUCCESS)
+	{
+		fprintf(gpFile, "\ncreateVulkanInstance() -> FillInstanceExtensionName() failed.");
+	}
+	else
+	{
+		fprintf(gpFile, "\ncreateVulkanInstance() -> FillInstanceExtensionName() Succeeded.");
+	}
+
+	// STEP 2: Insitialze struct VkApplicationInfo
+	VkApplicationInfo vkApplicationInfo;
+	memset((void *)&vkApplicationInfo, 0, sizeof(VkApplicationInfo));
+
+	vkApplicationInfo.sType = VK_STRUCTURE_TYPE_APPLICATION_INFO;
+	vkApplicationInfo.pNext = NULL;
+	vkApplicationInfo.pApplicationName = gpszAppName;
+	vkApplicationInfo.applicationVersion = 1;
+	vkApplicationInfo.pEngineName = gpszAppName;
+	vkApplicationInfo.engineVersion = 1;
+	vkApplicationInfo.apiVersion = VK_API_VERSION_1_3;
+
+	// STEP 3: Initialize struct VkInstanceCreateInfo
+	VkInstanceCreateInfo vkInstanceCreateInfo;
+	memset((void *)&vkInstanceCreateInfo, 0, sizeof(VkInstanceCreateInfo));
+
+	vkInstanceCreateInfo.sType = VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO;
+	vkInstanceCreateInfo.pNext = NULL;
+	vkInstanceCreateInfo.pApplicationInfo = &vkApplicationInfo;
+	vkInstanceCreateInfo.enabledExtensionCount = enabledInstanceExtensionCount;
+	vkInstanceCreateInfo.ppEnabledExtensionNames = enabledInstanceExtensionName_array;
+
+	// STEP 4: call vkCreateInstance() to get VkInstance
+	vkresult = vkCreateInstance(&vkInstanceCreateInfo, NULL, &vkinstance);
+	if (vkresult == VK_ERROR_INCOMPATIBLE_DRIVER)
+	{
+		fprintf(gpFile, "\ncreateVulkanInstance() -> vkCreateInstance() Failed due to incompatibl driver (%d).", vkresult);
+		return (vkresult);
+	}
+	else if (vkresult == VK_ERROR_EXTENSION_NOT_PRESENT)
+	{
+		fprintf(gpFile, "\ncreateVulkanInstance() -> vkCreateInstance() Failed due to required extension not present (%d).", vkresult);
+		return (vkresult);
+	}
+	else if (vkresult != VK_SUCCESS)
+	{
+		fprintf(gpFile, "\ncreateVulkanInstance() -> vkCreateInstance() Failed due to unknown reason (%d).", vkresult);
+		return (vkresult);
+	}
+	else
+	{
+		fprintf(gpFile, "\ncreateVulkanInstance() -> vkCreateInstance() Succeeded!");
+		return (vkresult);
+	}
+}
+
+VkResult FillInstanceExtensionName(void)
+{
 	// Variable declaration
 	VkResult vkresult = VK_SUCCESS;
 
@@ -366,7 +440,6 @@ VkResult FillInstanceExtensionName(void)
 	{
 		fprintf(gpFile, "\nFillInstanceExtensionName() -> 1st call to vkEnumerateInstanceExtensionProperties() Succeeded.");
 	}
-
 
 	// STEP 2 : Allocate and fill struct VkExtensionProperties array correspoding to above count
 	VkExtensionProperties *vkExtensionProperties_array = NULL;

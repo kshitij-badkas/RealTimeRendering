@@ -42,7 +42,9 @@ FillInstanceExtensionName() -> VK_KHR_SURFACE_EXTENSION_NAME FOUND!
 FillInstanceExtensionName() -> VK_KHR_WIN32_SURFACE_EXTENSION_NAME FOUND!
 FillInstanceExtensionName() -> enabledInstanceExtensionName = VK_KHR_surface
 FillInstanceExtensionName() -> enabledInstanceExtensionName = VK_KHR_win32_surface
-Initialize() -> FillInstanceExtensionName() Succeeded.
+createVulkanInstance() -> FillInstanceExtensionName() Succeeded.
+createVulkanInstance() -> vkCreateInstance() Succeeded!
+Initialize() -> createVulkanInstance() Succeeded.
 WinMain() -> Initialize() Succeeded.
 WndProc() -> Program Terminated Successfully
 
@@ -101,3 +103,5 @@ WndProc() -> Program Terminated Successfully
 WndProc() -> Program Terminated Successfully
 
 WndProc() -> Program Terminated Successfully
+
+UnInitialize() -> vkDestroyInstance() Succeeded.
