@@ -1,0 +1,468 @@
+
+WinMain() -> Program started successfully.
+
+WinMain() -> szAppName : ARTR 
+ WndProc() -> Program Started Successfully
+
+FillInstanceExtensionName() -> 1st call to vkEnumerateInstanceExtensionProperties() Succeeded.
+FillInstanceExtensionName() -> 2nd call to vkEnumerateInstanceExtensionProperties() Succeeded.
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_device_group_creation
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_external_fence_capabilities
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_external_memory_capabilities
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_external_semaphore_capabilities
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_get_physical_device_properties2
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_get_surface_capabilities2
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_surface
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_surface_protected_capabilities
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_win32_surface
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_EXT_debug_report
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_EXT_debug_utils
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_EXT_surface_maintenance1
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_EXT_swapchain_colorspace
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_NV_external_memory_capabilities
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_KHR_portability_enumeration
+
+FillInstanceExtensionName() -> Vulkan Extions Name = VK_LUNARG_direct_driver_loading
+
+FillInstanceExtensionName() -> VK_KHR_SURFACE_EXTENSION_NAME FOUND!
+FillInstanceExtensionName() -> VK_KHR_WIN32_SURFACE_EXTENSION_NAME FOUND!
+FillInstanceExtensionName() -> enabledInstanceExtensionName = VK_KHR_surface
+FillInstanceExtensionName() -> enabledInstanceExtensionName = VK_KHR_win32_surface
+createVulkanInstance() -> FillInstanceExtensionName() Succeeded.
+createVulkanInstance() -> vkCreateInstance() Succeeded!
+Initialize() -> createVulkanInstance() Succeeded.
+getSupportedSurface() -> vkWin32SurfaceCreateFlagsKHR() Succeeded.
+Initialize() -> getSupportedSurface() Succeeded.
+getPhysicalDevice() -> 1st call to vkEnumeratePhysicalDevices() Succeeded : 0.
+
+getPhysicalDevice() -> 2nd call to vkEnumeratePhysicalDevices() Succeeded : 0.
+
+getPhysicalDevice() -> isQueueSurfaceSupported_array FREED.
+
+getPhysicalDevice() -> vkQueueFamilyProperties_array FREED.
+
+getPhysicalDevice() is SUCCEEDED to select required physical device with Grpahics Enabled.
+
+getPhysicalDevice() : selected phycisal device supports TESSELLATION SHADER.
+
+getPhysicalDevice() : selected phycisal device supports GEOMETRY SHADER.
+
+Initialize() -> getPhysicalDevice() Succeeded: 0.
+
+***************VULKAN INFO***************
+Api Version : 1.3.260
+Device Name : NVIDIA GeForce GTX 1660 Ti
+Device Type : 2
+Device Type : Discrete GPU (dGPU)
+Vendor ID : 0x10de
+Device ID : 0x2191
+Api Version : 1.3.215
+Device Name : Intel(R) UHD Graphics 630
+Device Type : 1
+Device Type : Integrated GPU (iGPU)
+Vendor ID : 0x8086
+Device ID : 0x3e9b
+
+printVkInfo() -> vkphysicalDevice_array FREED.
+
+Initialize() -> printVkInfo() Succeeded: 0.
+
+FillDeviceExtensionName() -> 1st call to vkEnumerateDeviceExtensionProperties() Succeeded.
+FillDeviceExtensionName() -> 2nd call to vkEnumerateDeviceExtensionProperties() Succeeded.
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_16bit_storage
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_8bit_storage
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_acceleration_structure
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_bind_memory2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_buffer_device_address
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_copy_commands2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_create_renderpass2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_dedicated_allocation
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_deferred_host_operations
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_depth_stencil_resolve
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_descriptor_update_template
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_device_group
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_draw_indirect_count
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_driver_properties
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_dynamic_rendering
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_external_fence
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_external_fence_win32
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_external_memory
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_external_memory_win32
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_external_semaphore
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_external_semaphore_win32
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_format_feature_flags2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_fragment_shader_barycentric
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_fragment_shading_rate
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_get_memory_requirements2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_image_format_list
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_imageless_framebuffer
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_maintenance1
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_maintenance2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_maintenance3
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_maintenance4
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_maintenance5
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_map_memory2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_multiview
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_pipeline_executable_properties
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_pipeline_library
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_present_id
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_present_wait
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_push_descriptor
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_ray_tracing_maintenance1
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_ray_tracing_pipeline
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_relaxed_block_layout
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_sampler_mirror_clamp_to_edge
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_sampler_ycbcr_conversion
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_separate_depth_stencil_layouts
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_atomic_int64
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_clock
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_draw_parameters
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_float16_int8
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_float_controls
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_integer_dot_product
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_non_semantic_info
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_subgroup_extended_types
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_subgroup_uniform_control_flow
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_shader_terminate_invocation
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_spirv_1_4
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_storage_buffer_storage_class
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_swapchain
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_swapchain_mutable_format
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_synchronization2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_timeline_semaphore
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_uniform_buffer_standard_layout
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_variable_pointers
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_video_decode_h264
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_video_decode_h265
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_video_decode_queue
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_video_queue
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_vulkan_memory_model
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_win32_keyed_mutex
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_workgroup_memory_explicit_layout
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_KHR_zero_initialize_workgroup_memory
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_4444_formats
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_attachment_feedback_loop_dynamic_state
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_attachment_feedback_loop_layout
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_blend_operation_advanced
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_border_color_swizzle
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_buffer_device_address
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_calibrated_timestamps
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_color_write_enable
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_conditional_rendering
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_conservative_rasterization
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_custom_border_color
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_depth_bias_control
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_depth_clamp_zero_one
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_depth_clip_control
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_depth_clip_enable
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_depth_range_unrestricted
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_descriptor_buffer
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_descriptor_indexing
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_discard_rectangles
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_dynamic_rendering_unused_attachments
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_extended_dynamic_state
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_extended_dynamic_state2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_extended_dynamic_state3
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_external_memory_host
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_fragment_shader_interlock
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_full_screen_exclusive
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_graphics_pipeline_library
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_hdr_metadata
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_host_image_copy
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_host_query_reset
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_image_2d_view_of_3d
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_image_robustness
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_image_sliced_view_of_3d
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_image_view_min_lod
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_index_type_uint8
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_inline_uniform_block
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_line_rasterization
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_load_store_op_none
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_memory_budget
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_memory_priority
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_mesh_shader
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_multi_draw
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_mutable_descriptor_type
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_non_seamless_cube_map
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_pageable_device_local_memory
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_pci_bus_info
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_pipeline_creation_cache_control
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_pipeline_creation_feedback
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_pipeline_library_group_handles
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_pipeline_robustness
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_post_depth_coverage
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_primitive_topology_list_restart
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_primitives_generated_query
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_private_data
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_provoking_vertex
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_queue_family_foreign
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_robustness2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_sample_locations
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_sampler_filter_minmax
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_scalar_block_layout
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_separate_stencil_usage
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_atomic_float
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_demote_to_helper_invocation
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_image_atomic_int64
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_module_identifier
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_object
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_subgroup_ballot
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_subgroup_vote
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_shader_viewport_index_layer
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_subgroup_size_control
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_swapchain_maintenance1
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_texel_buffer_alignment
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_tooling_info
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_transform_feedback
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_vertex_attribute_divisor
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_vertex_input_dynamic_state
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_ycbcr_2plane_444_formats
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_EXT_ycbcr_image_arrays
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_clip_space_w_scaling
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_compute_shader_derivatives
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_copy_memory_indirect
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_corner_sampled_image
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_coverage_reduction_mode
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_cuda_kernel_launch
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_dedicated_allocation
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_dedicated_allocation_image_aliasing
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_device_diagnostic_checkpoints
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_device_diagnostics_config
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_device_generated_commands
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_device_generated_commands_compute
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_external_memory
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_external_memory_win32
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_fill_rectangle
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_fragment_coverage_to_color
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_fragment_shader_barycentric
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_fragment_shading_rate_enums
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_framebuffer_mixed_samples
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_geometry_shader_passthrough
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_inherited_viewport_scissor
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_linear_color_attachment
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_low_latency
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_low_latency2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_memory_decompression
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_mesh_shader
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_ray_tracing
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_ray_tracing_invocation_reorder
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_representative_fragment_test
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_sample_mask_override_coverage
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_scissor_exclusive
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_shader_image_footprint
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_shader_sm_builtins
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_shader_subgroup_partitioned
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_shading_rate_image
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_viewport_array2
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_viewport_swizzle
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NV_win32_keyed_mutex
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NVX_binary_import
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NVX_image_view_handle
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_NVX_multiview_per_view_attributes
+
+FillDeviceExtensionName() -> Vulkan Device Extension Name = VK_AMD_buffer_marker
+
+FillDeviceExtensionN
